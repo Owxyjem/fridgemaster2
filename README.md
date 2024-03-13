@@ -29,6 +29,6 @@ Set expiration dates for perishable items.
 Receive notifications when items are about to expire.
 Contributing
 We welcome contributions from the community. If you find any issues or have suggestions for improvements, please submit a pull request or open an issue on the repository.
-This code is bot 100% complete.
+This code is not 100% complete.
 License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code for your own purposes. Refer to the LICENSE file for more details.
