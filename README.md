@@ -15,8 +15,7 @@ Emulator or Android device for testing.
 Installation
 Clone the repository to your local machine:
 bash
-Copy code
-git clone https://github.com/your-username/fridge-master.git
+
 Open the project in Android Studio.
 
 Build and run the app on an emulator or an Android device.
